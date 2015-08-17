@@ -89,13 +89,14 @@ nav {
 /*Other Shit*/
 
 h1 {
+	font-size:30px;
 	margin-bottom:20px;
 }
 
 
 
 .left {
-	height:500px;
+	height:700px;
 }
 
 .controls {
@@ -146,11 +147,18 @@ h1 {
 article {
 	background-color:#230b0b;
 	margin:25px 0;
-	padding:10px;
+	padding:25px;
+	border-radius:20px;
 }
 
 audio {
 	display:none;
+}
+
+footer {
+	margin:30px 0;
+	text-align:center;
+	color:gray;
 }
 
 
